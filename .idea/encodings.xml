@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/assets/www/.idea" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/LMS-dashboard.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/Team-Leave-Calender - inner.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/Team-Leave-Calender.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/apply-leave.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/book-a-room.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/BG.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/Logo_BG.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/bootstrap.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/font-awesome.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/header.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/jquery.mobile-1.4.5.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/jquery.mobile.external-png-1.4.5.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/jquery.mobile.icons-1.4.5.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/jquery.mobile.inline-png-1.4.5.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/jquery.mobile.inline-svg-1.4.5.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/jquery.mobile.structure-1.4.5.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/jquery.mobile.theme-1.4.5.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/main.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/main.css.bak" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/master.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/master.css.bak" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/nav-bar.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/owl.carousel.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/owl.theme.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/css/owl.transitions.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/dashboard.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/filter.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/fonts" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/holiday-list.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/images" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/1.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/15 Aug.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/2.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/26 Jan.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Alerts-2.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Alerts.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Anniversary.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Apply Leave.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Arrow - Copy.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Arrow 1.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Arrow 2.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Arrow.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Awards.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/BG.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Birthday.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Eid.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Filter.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Good Friday.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Header Slider.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Holi.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Holiday list - Copy.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Holiday list.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Key.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/LMS.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Leave Management Policy - Copy.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Leave Management Policy.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Logo_BG.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Menu.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Messages.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/More widgest.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/My Leave Request - Copy.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/My Leave Request.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/My Work List - Copy.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/My Work List.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Nitovate logo.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Plus.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Raksha bandhan.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Room-Booking.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Room.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Team Leave Calendar - Copy.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/Team Leave Calendar.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/active-circle.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/alert-notif.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/cancel.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/date-picker-icon.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/expense.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/forward18 (1).png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/header.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/nav-bar.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/nitovate-logo.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/notification-icon.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/travel.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/img/user.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/js/application.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/js/bootstrap.min.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/js/jquery.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/js/jquery.mobile-1.4.5.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/js/owl.carousel.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/leave-request.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/my-bookings.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/my-travel-requests - Copy.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/my-travel-requests.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/my-worklist.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/room-available.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/room-booking.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/room-info.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/travel-raise-request.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/assets/www/www-jqm.iml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
